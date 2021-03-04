@@ -17,8 +17,8 @@ body {
     width: 100%;
     font-size: 16px;
     line-height: normal;
-    color: #fff;
-    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
     -webkit-overflow-scrolling: touch;
     -webkit-tap-highlight-color: transparent;
     &.is-hidden{
@@ -35,6 +35,24 @@ a {
     text-decoration: none;
 }
 
+svg{
+    display: block;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 42px;
+    &__icon{
+        display: inline-block;
+        border-radius: 50%;
+        overflow: hidden;
+        margin-right: 10px;
+    }
+}
+
 .wrapper {
     width: 100%;
     overflow: hidden;
@@ -48,7 +66,7 @@ img{
 }
 
 .container {
-    width: 1140px;
+    width: 1170px;
     margin: 0 auto;
     max-width: 100%;
     @include media-breakpoint-down(tablet) {

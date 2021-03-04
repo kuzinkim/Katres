@@ -1,0 +1,106 @@
+.about{
+    padding-bottom: 74px;
+    &__wrapper{
+
+        &-top{
+            max-width: 770px;
+            margin: 0 auto;
+            text-align: center;
+            border: 1px solid #000000;
+            border-radius: 5px;
+            padding-top: 30px;
+            padding-bottom: 24px;
+            margin-top: 53px;
+
+            .about__text{
+                color: #808080;
+                margin-top: 12px;
+            }
+        }
+        &-middle{
+            max-width: 990px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            border: 1px solid #FFDA00;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-top: 67px;
+            .about__text{
+                margin-bottom: 12px;
+            }
+        }
+        &-bottom{
+            margin-top: 67px;
+            .about__text{
+                margin-bottom: 12px;
+            }
+        }
+    }
+
+    &__description{
+        display: block;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    &__text{
+        display: block;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    &__stat{
+        margin-top: 12px;
+        img{
+            margin: 0 auto;
+        }
+    } 
+
+    &__item{
+        padding-right: 59px;
+        &-wrap{
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+
+            .title__icon{
+                flex-shrink: 0;
+            }
+        }
+
+        &-pic{
+            flex-shrink: 0;
+            margin-right: 37px;
+            padding-right: 0;
+        }
+    }
+
+    &-row{
+        display: flex;
+        align-items: center;
+        border: 1px solid #FFDA00;
+        border-radius: 5px;
+        overflow: hidden;
+        margin-top: 67px;
+
+        &:nth-child(odd){
+            border: 1px solid #000000;
+
+            .about__item{
+                padding-left: 40px;
+                padding-right: 46px;
+            }
+
+            .about__item-pic{
+                order: 1;
+                margin-right: 0;
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+    }
+
+}
+    

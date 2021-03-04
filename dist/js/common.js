@@ -1,1 +1,1 @@
-var debugTimes=!1;$(document).ready(function(){});
+var debugTimes=!1;document.addEventListener("DOMContentLoaded",function(e){new Swiper(".swiper-container",{navigation:{nextEl:".main-slider__arrow--next",prevEl:".main-slider__arrow--prev"},touchRatio:0,pagination:{el:".swiper-pagination"}})});
