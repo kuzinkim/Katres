@@ -24,23 +24,33 @@
         <div class="container"> 
           <div class="header__inner"> <a class="header__logo" href="#"><img src="assets/images/logo.png" alt=""/></a>
             <div class="header__menu"> 
-              <nav class="header__menu-top nav"><a class="nav__item" href="#">О заводе</a><a class="nav__item" href="#">Новости</a><a class="nav__item" href="#">Сервис</a><a class="nav__item" href="#">Лизинг</a><a class="nav__item" href="#">Контакты</a></nav>
-              <div class="header__menu-bottom"><span class="header__menu-item">Продукция</span><a class="header__menu-item" href="#">Реализованные проекты</a></div>
+              <nav class="header__menu-top nav">
+                <div class="nav__item"><a href="#">О заводе</a></div>
+                <div class="nav__item"><a href="#">Новости</a></div>
+                <div class="nav__item"><a href="#">Сервис</a></div>
+                <div class="nav__item"><a href="#">Лизинг</a></div>
+                <div class="nav__item"><a href="#">Контакты</a></div>
+              </nav>
+              <div class="header__menu-bottom"><span class="header__menu-item">Продукция</span>
+                <div class="header__menu-item"><a href="#">Реализованные проекты</a></div>
+              </div>
+              <div class="popup__close js-close"><span class="popup__close-line popup__close-line--left"></span><span class="popup__close-line popup__close-line--right"></span></div>
             </div>
             <div class="header__contact contact">
-              <div class="contact__item"> 
-                <div class="contact__icon">
-                   <svg class="mail-icon" width="15" height="13">
+              <div class="contact-wrapper">
+                <div class="contact__item"> <a class="contact__icon" href="mailto:info@katres.ru">
+                     <svg class="mail-icon" width="15" height="13">
 <use xlink:href="assets/images/sprite.svg#mail"></use>
-</svg>
-                </div><a class="contact__link" href="mailto:info@katres.ru">info@katres.ru</a>
-              </div>
-              <div class="contact__item"> 
-                <div class="contact__icon">
-                   <svg class="mail-icon" width="16" height="17">
+</svg></a><a class="contact__link" href="mailto:info@katres.ru">info@katres.ru</a></div>
+                <div class="contact__item"> <a class="contact__icon" href="tel:88006856944">
+                     <svg class="mail-icon" width="16" height="17">
 <use xlink:href="assets/images/sprite.svg#phone"></use>
-</svg>
-                </div><a class="contact__link" href="tel:88006856944">8 800 685 69 44</a>
+</svg></a><a class="contact__link" href="tel:88006856944">8 800 685 69 44</a></div>
+              </div>
+              <div class="header__burger burg js-burg">
+                <div class="burg__line"></div>
+                <div class="burg__line"></div>
+                <div class="burg__line"></div>
               </div>
             </div>
           </div>
@@ -101,8 +111,8 @@
                 <div class="product__pic"> <img src="assets/images/product3.jpg" alt=""/></div>
               </div>
               <div class="product__item">
-                <div class="product__name"><span>Туннельные <span class="product__name--color">сушки</span></span></div>
-                <div class="product__pic"> <img src="assets/images/product5.jpg" alt=""/></div>
+                <div class="product__name"><span>Комплектующие</span></div>
+                <div class="product__pic"> <img src="assets/images/complect.jpg" alt=""/></div>
               </div>
             </div>
           </div>
@@ -116,59 +126,77 @@
 </svg>
             </div><span>О заводе</span>
           </div>
-          <div class="about__wrapper-top"> <span class="about__description">КАТРЕС - держатель сертификата качества ISO&nbsp;9001:2015</span><span class="about__text">Качество портфеля - основа долгосрочного процветания</span>
-            <div class="about__stat"> <img src="assets/images/circle.jpg" alt=""/></div>
-          </div>
-          <div class="about__wrapper-middle">
-            <div class="about__item about__item-pic"> <img src="assets/images/service1.jpg" alt=""/></div>
-            <div class="about__item">
-              <div class="about__item-wrap">
-                <div class="title__icon"><svg class="mail-icon" width="17" height="17">
-<use xlink:href="assets/images/sprite.svg#circle-small"></use>
-</svg>
-                </div><span class="about__description">Ведущий производитель</span>
-              </div>
-              <p class="about__text">Компания Катрес была основана в 1991 г.</p>
-              <p class="about__text">Основное производство находится в городе Йиглава (Чехия).</p>
-              <p class="about__text">Компания является одним из ведущих европейских производителей сушильного оборудования для деревообрабатывающей промышленности, сельского хозяйства, камер для термической обработки материалов.</p>
-              <p class="about__text">За это время Компанией реализовано множество успешных проектов, KATRES произвела более чем 3 000 поставок по всему миру.</p>
-            </div>
-          </div>
           <div class="about__wrapper-bottom">
             <div class="about-row">
-              <div class="about__item about__item-pic"> <img src="assets/images/service2.jpg" alt=""/></div>
+              <div class="about__item about__item--pic"> <img src="assets/images/service1.jpg" alt=""/></div>
               <div class="about__item">
                 <div class="about__item-wrap">
                   <div class="title__icon"><svg class="mail-icon" width="17" height="17">
 <use xlink:href="assets/images/sprite.svg#circle-small"></use>
 </svg>
-                  </div><span class="about__description">Продукция высокого качества</span>
+                  </div><span class="about__description">Сегодня KATRES это</span>
                 </div>
-                <p class="about__text">С момента создания КАТРЕС, нашей философией является удовлетворенность Заказчика. </p>
-                <p class="about__text">Мы производим продукцию самого высокого качества, используя наш опыт и профессионализм в разработке современных процессов сушки древесины. </p>
-                <p class="about__text">Весь процесс, от формирования Заказа и до монтажа находится под контролем, что позволяет нам быстро реагировать на запросы Заказчиков во всем мире. </p>
-                <p class="about__text">Наши завершенные проекты Вы найдете повсюду  в Восточной Европе, за Уралом, в Южной Америке или в Скандинавии.</p>
+                <ol class="about__list">
+                  <li class="about__list-item">Основана в 1991 году  в  г. Иглава (Чехия)</li>
+                  <li class="about__list-item">Входит в 5-ку крупнейших производителей сушильного оборудования в Европе.</li>
+                  <li class="about__list-item">3 500 установок работает в более 25 странах мира.</li>
+                  <li class="about__list-item">Свыше 900 установок в России начиная с 2006 года</li>
+                </ol>
               </div>
             </div>
             <div class="about-row">
-              <div class="about__item about__item-pic"> <img src="assets/images/service3.jpg" alt=""/></div>
+              <div class="about__item about__item--pic"> <img src="assets/images/service2.jpg" alt=""/></div>
               <div class="about__item">
                 <div class="about__item-wrap">
                   <div class="title__icon"><svg class="mail-icon" width="17" height="17">
 <use xlink:href="assets/images/sprite.svg#circle-small"></use>
 </svg>
-                  </div><span class="about__description">Инновации</span>
+                  </div><span class="about__description">Комплектующие</span>
                 </div>
-                <p class="about__text">Для динамичного развития и успеха, на КАТРЕС работает команда специалистов, именно поэтому КАТРЕС входит в число лидеров по инновациям в технологии сушки древесины. </p>
-                <p class="about__text">Перед поставкой оборудования и технологии Клиенту, мы  обеспечиваем контроль качества и тем самым гарантируем отсутствие проблем  при сборке и техническую поддержку в течение эксплуатации. </p>
-                <p class="about__text">Всё это позволяет нам предложить нашим Заказчикам оптимальное  соотношение качество - цена.</p>
+                <ol class="about__list">
+                  <li class="about__list-item">Камеры изготавливаются из высококачественных компонентов от лучших европейских производителей («SIEMENS», «DANFOSS», «WILO», «BELIMO»), </li>
+                  <li class="about__list-item">Все комплектующие максимально модернизированы и адаптированы к эксплуатации в суровых Российских условиях.</li>
+                </ol>
+              </div>
+            </div>
+            <div class="about-row">
+              <div class="about__item about__item--pic"> <img src="assets/images/service3.jpg" alt=""/></div>
+              <div class="about__item">
+                <div class="about__item-wrap">
+                  <div class="title__icon"><svg class="mail-icon" width="17" height="17">
+<use xlink:href="assets/images/sprite.svg#circle-small"></use>
+</svg>
+                  </div><span class="about__description">Оснащение завода</span>
+                </div>
+                <ol class="about__list">
+                  <li class="about__list-item">Производство оснащено самым передовым Европейским оборудованием. </li>
+                  <li class="about__list-item">Металлообрабатывающие станки от европейских производителей, таких как : «LSK-Machine Oy», Финляндия,  «NUKON», Турция,  «Baykal  APHS 51360», Турция.</li>
+                </ol>
+              </div>
+            </div>
+            <div class="about-row">
+              <div class="about__item about__item--pic"> <img src="assets/images/service4.jpg" alt=""/></div>
+              <div class="about__item">
+                <div class="about__item-wrap">
+                  <div class="title__icon"><svg class="mail-icon" width="17" height="17">
+<use xlink:href="assets/images/sprite.svg#circle-small"></use>
+</svg>
+                  </div><span class="about__description">Проверка качества </span>
+                </div>
+                <ol class="about__list">
+                  <li class="about__list-item">Сквозной контроль всех этапов производства </li>
+                  <li class="about__list-item">Технические расчеты и чертежи выполняются опытными конструкторами с использованием самых современных компьютерных технологий.</li>
+                  <li class="about__list-item">Современные склады  комплектующих и запасных частей</li>
+                </ol>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="video" style="background-image: url(assets/images/video.jpg)">
-        <div class="video__icon"> <img src="assets/images/youtube.png" alt=""/></div>
+      <div class="video"><video autoplay="" loop="loop" muted="">
+<source src="assets/videos.mp4" type="video/mp4">
+<source src="assets/videos.mp4" type="video/webm">
+</video>
       </div>
       <div class="footer">
         <div class="container">
@@ -194,20 +222,20 @@
               <div class="footer-contact__title"> 
                 <div class="footer__icon"> <img src="assets/images/cz.png" alt=""/></div><span class="footer__title">Контакты СZ</span>
               </div>
-              <div class="footer-contact-wrapper"> 
-                <div class="footer-contact__item footer-contact__item--cz">
+              <div class="footer-contact-wrapper footer-contact-wrapper--cz">
+                <div class="footer-contact__item footer-contact__item--start">
                   <div class="footer-contact__icon"><svg class="geo-icon" width="15" height="16">
 <use xlink:href="assets/images/sprite.svg#geo"></use>
 </svg>
                   </div><span class="footer-contact__text">CZ, Na Dolech 4474/6d586 01JIHLAVA</span>
                 </div>
-                <div class="footer-contact__item footer-contact__item--cz">
+                <div class="footer-contact__item">
                   <div class="footer-contact__icon"><svg class="mail-icon" width="15" height="13">
 <use xlink:href="assets/images/sprite.svg#mail"></use>
 </svg>
                   </div><a class="footer-contact__link" href="mailto:info@katres.cz">info@katres.cz</a>
                 </div>
-                <div class="footer-contact__item footer-contact__item--cz">
+                <div class="footer-contact__item">
                   <div class="footer-contact__icon"><svg class="phone-icon" width="16" height="17">
 <use xlink:href="assets/images/sprite.svg#phone"></use>
 </svg>
@@ -219,20 +247,20 @@
               <div class="footer-contact__title"> 
                 <div class="footer__icon"> <img src="assets/images/rus.png" alt=""/></div><span class="footer__title">Контакты RU</span>
               </div>
-              <div class="footer-contact-wrapper"> 
-                <div class="footer-contact__item footer-contact__item--rus">
+              <div class="footer-contact-wrapper footer-contact-wrapper--rus">
+                <div class="footer-contact__item footer-contact__item--start">
                   <div class="footer-contact__icon"><svg class="geo-icon" width="15" height="16">
 <use xlink:href="assets/images/sprite.svg#geo"></use>
 </svg>
                   </div><span class="footer-contact__text">г. Москва, ул. Б. Семёновская, д. 40 стр.13</span>
                 </div>
-                <div class="footer-contact__item footer-contact__item--rus">
+                <div class="footer-contact__item">
                   <div class="footer-contact__icon"><svg class="mail-icon" width="15" height="13">
 <use xlink:href="assets/images/sprite.svg#mail"></use>
 </svg>
                   </div><a class="footer-contact__link" href="mailto:info@katres.ru">info@katres.ru</a>
                 </div>
-                <div class="footer-contact__item footer-contact__item--rus">
+                <div class="footer-contact__item">
                   <div class="footer-contact__icon"><svg class="phone-icon" width="16" height="17">
 <use xlink:href="assets/images/sprite.svg#phone"></use>
 </svg>

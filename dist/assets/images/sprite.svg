@@ -8,7 +8,7 @@
                 stroke-miterlimit="10" />
         </g>
     </symbol>
-    <symbol width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg" id="circle">
+    <symbol viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg" id="circle">
         <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="34" height="34">
             <circle cx="17" cy="17" r="17" fill="#C4C4C4" />
         </mask>
@@ -17,6 +17,15 @@
             <path fill-rule="evenodd" clip-rule="evenodd"
                 d="M15.7044 -0.715088L11.5287 -0.715088L-4.55206 -0.715088L-4.55206 35.7645H11.5287L15.7044 35.7645H16.7071L16.7071 -0.715088L15.7044 -0.715088Z"
                 fill="#0A0C06" />
+        </g>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" fill="none" id="circle-small">
+        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="17" height="17">
+        <circle cx="8.5" cy="8.5" r="8.5" fill="#C4C4C4"/>
+        </mask>
+        <g mask="url(#mask0)">
+        <path d="M20.1213 -2.26672L8.91846 -2.26672L8.91846 16.9999L20.1213 16.9999V-2.26672Z" fill="#FBDA1B"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.39088 -2.26648L6.19394 -2.26648L-2.2666 -2.26648L-2.2666 16.9261L6.19394 16.9261H8.39088H8.91841L8.91841 -2.26648H8.39088Z" fill="black"/>
         </g>
     </symbol>
     <symbol width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg" id="phone">

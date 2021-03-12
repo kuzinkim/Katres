@@ -1,28 +1,42 @@
 .header 
     .container 
-        .header__inner 
+        .header__inner  
             a(href="#").header__logo
                 img(src="assets/images/logo.png", alt="")
             .header__menu 
                 nav.header__menu-top.nav
-                    a.nav__item(href="#") О заводе
-                    a.nav__item(href="#") Новости
-                    a.nav__item(href="#") Сервис
-                    a.nav__item(href="#") Лизинг
-                    a.nav__item(href="#") Контакты
+                    .nav__item
+                        a(href="#") О заводе
+                    .nav__item
+                        a(href="#") Новости
+                    .nav__item
+                        a(href="#") Сервис
+                    .nav__item
+                        a(href="#") Лизинг
+                    .nav__item
+                        a(href="#") Контакты
                 .header__menu-bottom
                     span.header__menu-item Продукция
-                    a(href="#").header__menu-item Реализованные проекты
+                    .header__menu-item
+                        a(href="#") Реализованные проекты
+                .popup__close.js-close
+                    span.popup__close-line.popup__close-line--left
+                    span.popup__close-line.popup__close-line--right
             .header__contact.contact
-                .contact__item 
-                    .contact__icon 
-                        <svg class="mail-icon" width="15" height="13">
-                            <use xlink:href="assets/images/sprite.svg#mail"></use>
-                        </svg>
-                    a(href="mailto:info@katres.ru").contact__link info@katres.ru
-                .contact__item 
-                    .contact__icon 
-                        <svg class="mail-icon" width="16" height="17">
-                            <use xlink:href="assets/images/sprite.svg#phone"></use>
-                        </svg>
-                    a(href="tel:88006856944").contact__link 8 800 685 69 44
+                .contact-wrapper
+                    .contact__item 
+                        a(href="mailto:info@katres.ru").contact__icon 
+                            <svg class="mail-icon" width="15" height="13">
+                                <use xlink:href="assets/images/sprite.svg#mail"></use>
+                            </svg>
+                        a(href="mailto:info@katres.ru").contact__link info@katres.ru
+                    .contact__item 
+                        a(href="tel:88006856944").contact__icon 
+                            <svg class="mail-icon" width="16" height="17">
+                                <use xlink:href="assets/images/sprite.svg#phone"></use>
+                            </svg>
+                        a(href="tel:88006856944").contact__link 8 800 685 69 44
+                .header__burger.burg.js-burg
+                    .burg__line
+                    .burg__line
+                    .burg__line

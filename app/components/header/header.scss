@@ -46,6 +46,7 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
+            stroke: #000000;
         }
     }
 
@@ -60,10 +61,155 @@
 
     &__item{
         display: inline-block;
-        margin-right: 53px;
+        margin-right: 49px;
         color: #808080;
         &:last-child{
             margin-right: 0;
         }
+    }
+}
+
+.burg {
+    display: none;
+    width: 26px;
+    cursor: pointer;
+    position: relative;
+    z-index: 4;
+    transition: opacity .3s ease 0s;
+
+    &__line,
+    &__line:nth-child(2)::after{
+        content: '';
+        display: block;
+        width: 100%;
+        height: 3px;
+        margin-top: 5px;
+        background-color: #000;
+        transition: transform .3s,opacity .2s;
+        &:first-child{
+            margin-top: 0;
+        }
+    }
+    &__line:first-child{
+        margin-top: 0;
+    }
+}
+
+.popup__close {
+    display: none;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 99999;
+}
+
+.popup__close-line {
+    width: 2px;
+    height: 100%;
+    background-color: #000;
+    display: block;
+    position: absolute;
+    right: 12px;
+}
+
+.popup__close-line--left {
+    transform: rotate(-45deg);
+}
+
+.popup__close-line--right {
+    transform: rotate(45deg);
+}
+
+@media screen and (max-width: 1199px){
+
+    .header__menu{
+        position: fixed;
+        top: 0;
+        z-index: 999;
+        left: auto;
+        bottom: 0;
+        right: 0;
+        margin-right: 0;
+        background: #fff;
+        padding: 30px;
+        width: 100%;
+        max-width: 350px;
+        transform: translateX(100%);
+        transition: transform 0.5s ease
+    }
+
+    .header__menu.is-active{
+        transform: translateX(0);
+    }
+
+    .nav{
+        margin-bottom: 0;
+    }
+
+    .header__inner{
+        justify-content: space-between;
+    }
+
+    .nav__item,
+    .header__menu-item{
+        display: block;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .burg{
+        display: block;
+    }
+
+    .contact{
+        display: flex;
+        align-items: center;
+    }
+
+    .header__logo{
+        max-width: 200px;
+    }
+
+    .contact-wrapper{
+        margin-right: 40px;
+    }
+
+    .header {
+        padding: 15px 0;
+    }
+
+    .popup__close{
+        display: block;
+    }
+
+    .header__logo{
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 549px){
+
+    .contact__link{
+        display: none;
+    }
+
+    .contact-wrapper{
+        margin-right: 10px;
+        display: flex;
+    }
+
+    .contact__item{
+        margin-bottom: 0;
+    }
+
+    .header__logo {
+        max-width: 120px;
+    }
+
+    .header__menu {
+        max-width: 100%;
     }
 }
