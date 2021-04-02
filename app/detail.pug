@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+html(lang="ru")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no")
+        meta(http-equiv="X-UA-Compatible", content="ie=edge")
+        title Product
+        meta(property="og:type" content="website")
+        meta(property="og:url" content)
+        meta(property = "og:title" content)
+        meta(property = "og:image" content)
+        meta(property = "og:description" content)
+        meta(property = "og:keywords" content)
+        meta(property = "og:image:width" content)
+        meta(property = "og:image:height" content)
+        <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+        include _styles.pug
+        include _scripts.pug
+    body
+        .wrapper
+            include components/header/header.pug
+            include components/breadcrumbs/breadcrumbs.pug
+            .detail
+                .container
+                    include components/pages/detail/detail-slider/detail-slider.pug
+                    include components/pages/detail/detail-tabs/detail-tabs.pug
+            include components/footer/footer.pug
+        script(src="js/fslightbox.js")
