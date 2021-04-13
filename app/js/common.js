@@ -271,9 +271,60 @@ function initCompareTable(items, spcifications) {
 	}
 }
 
+function init () {
+    var myMap = new ymaps.Map('map', {
+            center: [55.76, 37.64],
+            zoom: 4
+        }, {
+            searchControlProvider: 'yandex#search'
+        }),
+        objectManager = new ymaps.ObjectManager({
+            // Чтобы метки начали кластеризоваться, выставляем опцию.
+            clusterize: false,
+            // ObjectManager принимает те же опции, что и кластеризатор.
+            gridSize: 32,
+            clusterDisableClickZoom: false
+        });
+
+    // Чтобы задать опции одиночным объектам и кластерам,
+    // обратимся к дочерним коллекциям ObjectManager.
+    objectManager.objects.options.set({
+        iconLayout: 'default#image',
+        // Своё изображение иконки метки.
+        iconImageHref: '../assets/images/mark.svg',
+        // Размеры метки.
+        iconImageSize: [18, 34]
+        // Смещение левого верхнего угла иконки относительно
+        // её "ножки" (точки привязки).
+    });
+
+    myMap.geoObjects.add(objectManager);
+    
+    objectManager.events
+    .add('mouseenter', function (e) {
+        e.get('target').options.set({
+            iconImageHref: '../assets/images/mark-hover.svg',
+        });
+    })
+    .add('mouseleave', function (e) {
+        e.get('target').options.set({
+            iconImageHref: '../assets/images/mark.svg',
+        });
+    });
+
+    $.ajax({
+        url: "../assets/data.json"
+    }).done(function(data) {
+        objectManager.add(data);
+    });
+
+    console.log(objectManager);
+}
+
 $(document).ready(function() {
 	// init tables
 	initCompareTable('.js-table-props');
 	initCompareTable('.js-compare-table', true);
+    ymaps.ready(init);
 });
 

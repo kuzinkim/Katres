@@ -1,0 +1,1372 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "id": "8778894",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["61.198363486916", "62.849349975586"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Ханты - Мансийский автономный округ<br/>",
+            "region": "Ханты - Мансийский автономный округ",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 3
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 3
+    }, {
+        "type": "Feature",
+        "id": "8778895",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.275114", "64.852695"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Курганская область<br/>",
+            "region": "Курганская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 4
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 4
+    }, {
+        "type": "Feature",
+        "id": "8778896",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.243349924105", "65.467443466187"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Курганская область<br/>",
+            "region": "Курганская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 5
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 5
+    }, {
+        "type": "Feature",
+        "id": "8902951",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["64.529548199422", "40.60546875"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Архангельская область<br/>",
+            "region": "Архангельская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 6
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 6
+    }, {
+        "type": "Feature",
+        "id": "8778899",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.385580863318", "103.87912273407"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х90 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 7
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 7
+    }, {
+        "type": "Feature",
+        "id": "8778900",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.147079550101", "101.59057617188"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 8
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 8
+    }, {
+        "type": "Feature",
+        "id": "8778902",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.173463618972", "35.482921600342"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Тверская область<br/>",
+            "region": "Тверская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 9
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 9
+    }, {
+        "type": "Feature",
+        "id": "8778911",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.261278390719", "32.074584960938"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Тверская область<br/>",
+            "region": "Тверская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 10
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 10
+    }, {
+        "type": "Feature",
+        "id": "8778904",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.276988", "101.897618"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 11
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 11
+    }, {
+        "type": "Feature",
+        "id": "8778906",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["55.981145859631", "37.885665893555"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Московская область<br/>",
+            "region": "Московская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 12
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 12
+    }, {
+        "type": "Feature",
+        "id": "8778907",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["54.715895320995", "20.485382080078"]
+        },
+        "properties": {
+            "balloonContent": "<strong>Krafter 2х55 кВт</strong><br/>Калининградская область<br/><p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;display:block;margin-top:12px;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #FBDA1B;width: 100%;height: 44px;display: table;text-align: center;line-height: 44px;border-radius: 3px;margin-top:16px' target='_blank'>Узнать подробнее</a>",
+            "region": "Калининградская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 13
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 13
+    }, {
+        "type": "Feature",
+        "id": "8778909",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["51.812860014139", "107.61245727539"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х90 кВт</strong><br/>Бурятия Республика<br/>",
+            "region": "Бурятия Республика",
+            "model": "Krafter 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 14
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 14
+    }, {
+        "type": "Feature",
+        "id": "8779041",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.406018774845", "103.10874938965"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 15
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 15
+    }, {
+        "type": "Feature",
+        "id": "8778910",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.408393224149", "103.10995101929"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 16
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 16
+    }, {
+        "type": "Feature",
+        "id": "8778912",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["60.383283946286", "30.23943901062"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х90 кВт</strong><br/>Ленинградская область<br/>",
+            "region": "Ленинградская область",
+            "model": "Krafter 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 17
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 17
+    }, {
+        "type": "Feature",
+        "id": "8778913",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.143475584595", "29.215393066406"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Бобруйск, Беларусь<br/>",
+            "region": "Бобруйск, Беларусь",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 18
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 18
+    }, {
+        "type": "Feature",
+        "id": "8778967",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.894324912591", "40.17502784729"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Рязанская область<br/>",
+            "region": "Рязанская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 19
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 19
+    }, {
+        "type": "Feature",
+        "id": "8810643",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["55.890715987422", "37.44140625"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х90 кВт</strong><br/>Московская область<br/>",
+            "region": "Московская область",
+            "model": "Krafter 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 20
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 20
+    }, {
+        "type": "Feature",
+        "id": "8810645",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["52.799440337362", "104.7395324707"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 21
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 21
+    }, {
+        "type": "Feature",
+        "id": "8810646",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.48600351024", "84.988861083984"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/\t' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Томская область<br/>",
+            "region": "Томская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 22
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 22
+    }, {
+        "type": "Feature",
+        "id": "8845413",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["60.762848841904", "46.306686401367"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Вологодская область<br/>",
+            "region": "Вологодская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 23
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 23
+    }, {
+        "type": "Feature",
+        "id": "8845414",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.187560173602", "54.977431297302"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Пермский край<br/>",
+            "region": "Пермский край",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 24
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 24
+    }, {
+        "type": "Feature",
+        "id": "8859812",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["61.631201784211", "50.8447265625"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Коми Республика<br/>",
+            "region": "Коми Республика",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 25
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 25
+    }, {
+        "type": "Feature",
+        "id": "8772802",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["62.10565", "42.899612"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Архангельская область<br/>",
+            "region": "Архангельская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 26
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 26
+    }, {
+        "type": "Feature",
+        "id": "8902952",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["51.489934523502", "31.272583007812"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Украина<br/>",
+            "region": "Украина",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 27
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 27
+    }, {
+        "type": "Feature",
+        "id": "8906255",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.925368265737", "102.04925537109"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 28
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 28
+    }, {
+        "type": "Feature",
+        "id": "8923702",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.968866", "34.817362"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/\t' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Калужская область<br/>",
+            "region": "Калужская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 29
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 29
+    }, {
+        "type": "Feature",
+        "id": "8923699",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.603581", "49.667978"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/\t' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Кировская область<br/>",
+            "region": "Кировская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 30
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 30
+    }, {
+        "type": "Feature",
+        "id": "8945378",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["59.991155", "45.803724"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Вологодская область<br/>",
+            "region": "Вологодская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 31
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 31
+    }, {
+        "type": "Feature",
+        "id": "8954023",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["62.713349", "40.28625"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Архангельская область<br/>",
+            "region": "Архангельская область",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 32
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 32
+    }, {
+        "type": "Feature",
+        "id": "8955821",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["48.501112", "135.093554"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Хабаровский край<br/>",
+            "region": "Хабаровский край",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 33
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 33
+    }, {
+        "type": "Feature",
+        "id": "8948178",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.226835", "92.495316"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Красноярский край<br/>",
+            "region": "Красноярский край",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 34
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 34
+    }, {
+        "type": "Feature",
+        "id": "8979249",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.359814", "59.820153"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт</strong><br/>Свердловская область<br/>",
+            "region": "Свердловская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 35
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 35
+    }, {
+        "type": "Feature",
+        "id": "9266585",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.144", "29.21539"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Бобруйск, Беларусь<br/>",
+            "region": "Бобруйск, Беларусь",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 36
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 36
+    }, {
+        "type": "Feature",
+        "id": "8845418",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.561086", "65.435315"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/\t' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Тюменская область<br/>",
+            "region": "Тюменская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 37
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 37
+    }, {
+        "type": "Feature",
+        "id": "9148500",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.731886", "50.183674"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт </strong><br/>Кировская область<br/>",
+            "region": "Кировская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 38
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 38
+    }, {
+        "type": "Feature",
+        "id": "9148498",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["57.895271", "50.412403"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт </strong><br/>Кировская область<br/>",
+            "region": "Кировская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 39
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 39
+    }, {
+        "type": "Feature",
+        "id": "9152960",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["52.454201", "130.865636"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Амурская область<br/>",
+            "region": "Амурская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 40
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 40
+    }, {
+        "type": "Feature",
+        "id": "9152996",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["57.943039", "102.741523"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт </strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 41
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 41
+    }, {
+        "type": "Feature",
+        "id": "9153024",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.603398", "99.179748"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Красноярский край<br/>",
+            "region": "Красноярский край",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 42
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 42
+    }, {
+        "type": "Feature",
+        "id": "9170480",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["48.96644", "140.285128"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт </strong><br/>Хабаровский край<br/>",
+            "region": "Хабаровский край",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 43
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 43
+    }, {
+        "type": "Feature",
+        "id": "9170482",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["60.760356", "46.305485"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х55 кВт </strong><br/>Вологодская область<br/>",
+            "region": "Вологодская область",
+            "model": "Krafter (2.0) 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 44
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 44
+    }, {
+        "type": "Feature",
+        "id": "9185171",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["52.020962", "29.186102"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х55 кВт</strong><br/>Гомельская область, Беларусь<br/>",
+            "region": "Гомельская область, Беларусь",
+            "model": "Krafter 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 45
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 45
+    }, {
+        "type": "Feature",
+        "id": "9224968",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.369849", "45.518264"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт </strong><br/>Костромская область<br/>",
+            "region": "Костромская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 46
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 46
+    }, {
+        "type": "Feature",
+        "id": "9226217",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["55.652689", "64.811292"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Курганская область<br/>",
+            "region": "Курганская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 47
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 47
+    }, {
+        "type": "Feature",
+        "id": "9252643",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["51.787702", "28.32486"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Гомельская область, Беларусь<br/>",
+            "region": "Гомельская область, Беларусь",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 48
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 48
+    }, {
+        "type": "Feature",
+        "id": "9252645",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["46.539764", "138.316829"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт </strong><br/>Приморский край<br/>",
+            "region": "Приморский край",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 49
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 49
+    }, {
+        "type": "Feature",
+        "id": "9265641",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.221728", "92.503657"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Красноярский край<br/>",
+            "region": "Красноярский край",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 50
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 50
+    }, {
+        "type": "Feature",
+        "id": "9265643",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.294389", "43.878192"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х55 кВт </strong><br/>Костромская область<br/>",
+            "region": "Костромская область",
+            "model": "Krafter (2.0) 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 51
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 51
+    }, {
+        "type": "Feature",
+        "id": "9265647",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["55.147258", "40.555405"]
+        },
+        "properties": {
+            "balloonContent": "<strong>Krafter (2.0) 2х55 кВт </strong><br/>Брянская область<br/><p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a>",
+            "region": "Рязанская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 52
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 52
+    }, {
+        "type": "Feature",
+        "id": "9265648",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.170823", "34.356481"]
+        },
+        "properties": {
+            "balloonContent": "<strong>Krafter (2.0) 2х55 кВт </strong><br/>Брянская область<br/><p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a>",
+            "region": "Брянская область",
+            "model": "Krafter (2.0) 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 53
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 53
+    }, {
+        "type": "Feature",
+        "id": "9297760",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.904448", "93.15119"]
+        },
+        "properties": {
+            "balloonContent": "<strong>Krafter (2.0) 2х55 кВт </strong><br/>Брянская область<br/><p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a>",
+            "region": "Красноярский край",
+            "model": "Krafter 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 54
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 54
+    }, {
+        "type": "Feature",
+        "id": "9300795",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["59.973487", "42.758873"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Вологодская область<br/>",
+            "region": "Вологодская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 55
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 55
+    }, {
+        "type": "Feature",
+        "id": "9331336",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["48.480223", "135.072917"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Хабаровский край<br/>",
+            "region": "Хабаровский край",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 56
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 56
+    }, {
+        "type": "Feature",
+        "id": "9331337",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["59.331129", "66.022742"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Тюменская область<br/>",
+            "region": "Тюменская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 57
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 57
+    }, {
+        "type": "Feature",
+        "id": "9332423",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["55.206945", "100.694092"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 58
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 58
+    }, {
+        "type": "Feature",
+        "id": "9361997",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.045961", "99.521242"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 59
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 59
+    }, {
+        "type": "Feature",
+        "id": "9503781",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["58.369849", "45.518264"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Костромская область<br/>",
+            "region": "Костромская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 60
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 60
+    }, {
+        "type": "Feature",
+        "id": "9503782",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["60.277945", "47.069161"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт</strong><br/>Кировская область<br/>",
+            "region": "Кировская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 61
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 61
+    }, {
+        "type": "Feature",
+        "id": "9505204",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.462849", "103.456231"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 62
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 62
+    }, {
+        "type": "Feature",
+        "id": "9505411",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.457473", "27.214129"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х55 кВт</strong><br/>Минская область, Беларусь<br/>",
+            "region": "Минская область, Беларусь",
+            "model": "Krafter (2.0) 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 63
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 63
+    }, {
+        "type": "Feature",
+        "id": "9507054",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["48.968291", "140.28785"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Хабаровский край<br/>",
+            "region": "Хабаровский край",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 64
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 64
+    }, {
+        "type": "Feature",
+        "id": "9509445",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.404468", "103.108979"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 65
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 65
+    }, {
+        "type": "Feature",
+        "id": "9509447",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["51.697237", "94.373402"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Республика Тыва<br/>",
+            "region": "Республика Тыва",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 66
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 66
+    }, {
+        "type": "Feature",
+        "id": "9520230",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["48.480223", "135.071917"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Волгоградская область<br/>",
+            "region": "Волгоградская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 67
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 67
+    }, {
+        "type": "Feature",
+        "id": "9498135",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["55.429966", "65.268166"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Курганская область<br/>",
+            "region": "Курганская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 68
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 68
+    }, {
+        "type": "Feature",
+        "id": "9496021",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["54.349928", "41.924087"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/\t' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт</strong><br/>Рязанская область<br/>",
+            "region": "Рязанская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 69
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 69
+    }, {
+        "type": "Feature",
+        "id": "9395434",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["53.789135", "82.316124"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х90 кВт</strong><br/>Новосибирская область<br/>",
+            "region": "Новосибирская область",
+            "model": "Krafter 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 70
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 70
+    }, {
+        "type": "Feature",
+        "id": "9404765",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["50.092321", "136.504245"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х90 кВт</strong><br/>Хабаровский край<br/>",
+            "region": "Хабаровский край",
+            "model": "Krafter 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 71
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 71
+    }, {
+        "type": "Feature",
+        "id": "9422153",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["57.85729", "63.877412"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт </strong><br/>Свердловская область<br/>",
+            "region": "Свердловская область",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 72
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 72
+    }, {
+        "type": "Feature",
+        "id": "9435043",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.801799", "41.852527"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Ивановская область<br/>",
+            "region": "Ивановская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 73
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 73
+    }, {
+        "type": "Feature",
+        "id": "9463970",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["61.668793", "50.836399"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/\t' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт</strong><br/>Коми Республика<br/>",
+            "region": "Коми Республика",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 74
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 74
+    }, {
+        "type": "Feature",
+        "id": "9484471",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["56.151362", "101.63408"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='http://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter 2х75 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 75
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 75
+    }, {
+        "type": "Feature",
+        "id": "9488342",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["54.317464", "29.140144"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х55 кВт</strong><br/><br/>",
+            "region": "",
+            "model": "Krafter (2.0) 2х55 кВт",
+            "iconCaption": "",
+            "iconContent": 76
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 76
+    }, {
+        "type": "Feature",
+        "id": "9491479",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["51.668937", "135.675755"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='https://www.stanki.ru/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_brusootdelitelem_mod_krafter_ot_2_0_m/\t' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х75 кВт</strong><br/>Хабаровский край<br/>",
+            "region": "Хабаровский край",
+            "model": "Krafter (2.0) 2х75 кВт",
+            "iconCaption": "",
+            "iconContent": 77
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 77
+    }, {
+        "type": "Feature",
+        "id": "9526935",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["57.775723", "108.110816"]
+        },
+        "properties": {
+            "balloonContent": "<p><img src='assets/images/product-map.jpg' style='max-width:240px;max-height:240px;border:1px #999 solid;'></p><a href='/catalog/brevnopilnye_diskovye_stanki/brusovalnyy_dvukhvalnyy_stanok_s_gusenichnoy_podachey_mod_krafter/' style='color:color: #000;background: #EDCD50;width: 140px;height: 26px;display: table;text-align: center;line-height: 26px;border-radius: 3px;border: 1px solid #BDA64B;margin: 4% 0;' target='_blank'>Узнать подробнее</a><strong>Krafter (2.0) 2х90 кВт</strong><br/>Иркутская область<br/>",
+            "region": "Иркутская область",
+            "model": "Krafter (2.0) 2х90 кВт",
+            "iconCaption": "",
+            "iconContent": 78
+        },
+        "options": {
+            "iconContent": "10"
+        },
+        "num": 78
+    }]
+}
