@@ -291,7 +291,7 @@ function init () {
     objectManager.objects.options.set({
         iconLayout: 'default#image',
         // Своё изображение иконки метки.
-        iconImageHref: '../assets/images/mark.svg',
+        iconImageHref: 'assets/images/mark.svg',
         // Размеры метки.
         iconImageSize: [18, 34]
         // Смещение левого верхнего угла иконки относительно
@@ -310,15 +310,15 @@ function init () {
         var objectId = e.get('objectId');
         if (e.get('type') == 'mouseenter') {
             objectManager.objects.setObjectOptions(objectId, {
-                iconImageHref: '../assets/images/mark-hover.svg',
+                iconImageHref: 'assets/images/mark-hover.svg',
             });
         }else if(e.get('type') == 'click'){
             objectManager.objects.setObjectOptions(objectId, {
-                iconImageHref: '../assets/images/mark.svg',
+                iconImageHref: 'assets/images/mark.svg',
             });
         } else {
             objectManager.objects.setObjectOptions(objectId, {
-                iconImageHref: '../assets/images/mark.svg',
+                iconImageHref: 'assets/images/mark.svg',
             });
         }
     }
