@@ -301,7 +301,7 @@ function init () {
     myMap.geoObjects.add(objectManager);
     
     $.ajax({
-        url: "../assets/data.json"
+        url: "assets/data.json"
     }).done(function(data) {
         objectManager.add(data);
     });
@@ -309,7 +309,6 @@ function init () {
     function onObjectEvent (e) {
         var objectId = e.get('objectId');
         if (e.get('type') == 'mouseenter') {
-            // Метод setObjectOptions позволяет задавать опции объекта "на лету".
             objectManager.objects.setObjectOptions(objectId, {
                 iconImageHref: '../assets/images/mark-hover.svg',
             });
