@@ -300,25 +300,32 @@ function init () {
 
     myMap.geoObjects.add(objectManager);
     
-    objectManager.events
-    .add('mouseenter', function (e) {
-        e.get('target').options.set({
-            iconImageHref: '../assets/images/mark-hover.svg',
-        });
-    })
-    .add('mouseleave', function (e) {
-        e.get('target').options.set({
-            iconImageHref: '../assets/images/mark.svg',
-        });
-    });
-
     $.ajax({
         url: "../assets/data.json"
     }).done(function(data) {
         objectManager.add(data);
     });
 
-    console.log(objectManager);
+    function onObjectEvent (e) {
+        var objectId = e.get('objectId');
+        if (e.get('type') == 'mouseenter') {
+            // Метод setObjectOptions позволяет задавать опции объекта "на лету".
+            objectManager.objects.setObjectOptions(objectId, {
+                iconImageHref: '../assets/images/mark-hover.svg',
+            });
+        }else if(e.get('type') == 'click'){
+            objectManager.objects.setObjectOptions(objectId, {
+                iconImageHref: '../assets/images/mark.svg',
+            });
+        } else {
+            objectManager.objects.setObjectOptions(objectId, {
+                iconImageHref: '../assets/images/mark.svg',
+            });
+        }
+    }
+
+    objectManager.objects.events.add(['mouseenter', 'mouseleave', 'click'], onObjectEvent);
+
 }
 
 $(document).ready(function() {
